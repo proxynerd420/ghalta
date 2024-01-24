@@ -129,10 +129,12 @@ h2 {
     border-left: 2px solid greenyellow;
     border-right: 2px solid greenyellow;
     padding-bottom: 20px;
+    /* max-width: 20rem; */
 }
 
 .ul li {
     color: greenyellow;
+    /* max-width: 10rem; */
 }
 
 .ul>div {
