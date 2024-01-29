@@ -412,22 +412,6 @@ h4 {
     transition: opacity 1.5s ease-in-out;
 }
 
-footer {
-    /* display: flex; */
-}
-
-
-.footer-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    gap: 10px; /* Füge Abstand zwischen den Elementen hinzu, falls gewünscht */
-}
-#w3c {
-    text-align: center;
-    margin: 0;
-}
 
 footer {
     margin-top: 30px;
@@ -438,6 +422,21 @@ footer {
     padding: 20px;
     border-top: 2px solid greenyellow;
 }
+
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px; /* Füge Abstand zwischen den Elementen hinzu, falls gewünscht */
+}
+
+#w3c {
+    text-align: center;
+    margin: 0;
+}
+
 
 footer img {
     width: 15vw;
